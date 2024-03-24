@@ -41,7 +41,7 @@ pip freeze > requirements.txt
 ```
 Vea estas referencias te puede ayudar mucho:
 
-[stackoverflow](https://es.stackoverflow.com/questions/386021/c%C3%B3mo-puedo-crear-requirements-txt-para-mi-proyecto)
+[Pypi.org](https://pypi.org/project/virtualenv/)
 -
 [flask](https://flask.palletsprojects.com/en/2.2.x/installation).
 -
